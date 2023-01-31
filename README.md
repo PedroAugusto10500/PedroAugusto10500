@@ -1,4 +1,4 @@
-### Hi, my name is Pedro Augusto.
+### Olá, meu nome é Pedro Augusto.
 - Estudando JavaScript e Java.
 - Focado em Front-end.
 - Cursando ADS: 2/5.
