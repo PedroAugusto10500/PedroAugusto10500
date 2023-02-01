@@ -5,9 +5,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B08BF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04DE18&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Augusto;I'm+18+years+old;I'm+from+Brazil;)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroAugusto10500&bg_color=4B08BFcolor=4B08BF&line=020005&point=04DE18&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
