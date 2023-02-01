@@ -10,14 +10,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroAugusto10500&bg_color=4B08BFcolor=4B08BF&line=020005&point=04DE18&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroAugusto10500&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=4B08BF&icon_color=4B08BF&text_color=04DE18&bg_color=0d1117" alt="Pedro Augusto github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=4B08BF&icon_color=4B08BF4&text_color=04DE18&bg_color=0d1117" alt="Pedro Augusto github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&hide_border=true&title_color=4B08BF&text_color=4B08BF&bg_color=0d1117" />
 </div>
 
