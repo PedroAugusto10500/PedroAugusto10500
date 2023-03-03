@@ -6,8 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04DE18&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Augusto;I'm+18+years+old;I'm+from+Brazil;I'm+Studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=4B08BF&icon_color=4B08BF4&text_color=04DE18&bg_color=0d1117" alt="Pedro Augusto github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=4B08BF&icon_color=4B08BF4&text_color=04DE18&bg_color=0d1117" alt="Pedro Augusto github stats"
+       /> 
   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
