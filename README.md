@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-<img align="right" alt="Spike-pic" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif">  
+<img align="right" alt="Spike-pic" height="250" style="border-radius:50px;" src="https://www.pngkit.com/png/full/240-2401547_berserk-drawing-evangelion-eva-unit-1-head.png">  
 </div> 
 <br>
 <div align="center">
