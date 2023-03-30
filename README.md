@@ -12,6 +12,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroAugusto10500&bg_color=0d1117&color=ffffff&line=7601d5&point=00bd03&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
  ### 🟣 Main skills:
 <div style="display: inline_block"><br>
