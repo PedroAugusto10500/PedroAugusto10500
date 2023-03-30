@@ -9,10 +9,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=4B08BF&icon_color=4B08BF&text_color=04DE18&bg_color=0d1117" alt="Pedro Augusto github stats"
        /> 
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&langs_count=7&theme=dark"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&hide_border=true&title_color=4B08BF&text_color=00FF00&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroAugusto10500&bg_color=0d1117&color=ffffff&line=7601d5&point=00bd03&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroAugusto10500&bg_color=0d1117&color=ffffff&line=4B08BF&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
  ### 🟣 Main skills:
