@@ -33,6 +33,7 @@
 <div align="center">
 <img align="right" alt="Spike-pic" height="250" style="border-radius:50%;" src="https://cdn.discordapp.com/attachments/739454548006928464/1090997242036502669/eva01.gif">  
 </div> 
+
 <br>
 <div align="center">
 <br><p align="center"><font color="#6e2dac">Visitors Count</font></p>
