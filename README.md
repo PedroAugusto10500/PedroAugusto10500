@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<img align="right" alt="Spike-pic" height="250" style="border-radius:40%;" src="https://cdn.discordapp.com/attachments/739454548006928464/1090997242036502669/eva01.gif">  
+<img align="right" alt="Spike-pic" height="200" style="border-radius:40%;" src="https://cdn.discordapp.com/attachments/739454548006928464/1090997242036502669/eva01.gif">  
 </div> 
 
 <br>
