@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B08BF,100:00FF00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B08BF,100:0d1117&height=120&section=header"/>
 
 
 
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<img align="right" alt="Spike-pic" height="200" style="border-radius:30%;" src="https://cdn.discordapp.com/attachments/739454548006928464/1090997242036502669/eva01.gif">  
+<img align="right" alt="Spike-pic" height="350" style="border-radius:50%;" src="https://i.gifer.com/origin/0d/0dea0c59cbf084d981fc5b55643cb6e6_w200.gif">  
 </div> 
 
 <br>
@@ -40,4 +40,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroAugusto10500}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B08BF,100:00FF00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B08BF,100:0d1117&height=120&section=footer"/>
