@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<img align="right" alt="Spike-pic" height="350" style="border-radius:50%;" src="https://i.gifer.com/origin/0d/0dea0c59cbf084d981fc5b55643cb6e6_w200.gif">  
+<img align="right" alt="Spike-pic" height="350" style="border-radius:50%;" src="http://i.imgur.com/Esvthp8.gif">  
 </div> 
 
 <div align="center">
