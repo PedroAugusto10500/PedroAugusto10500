@@ -34,7 +34,11 @@
 <img align="right" alt="Spike-pic" height="350" style="border-radius:50%;" src="https://i.gifer.com/origin/0d/0dea0c59cbf084d981fc5b55643cb6e6_w200.gif">  
 </div> 
 
+<div align="center">
+<img align="left" alt="Spike-pic" height="350" style="border-radius:50%;" src="https://i.pinimg.com/originals/bd/70/91/bd709126f1b9c8b3c772d5169b41414d.gif">  
+</div> 
 <br>
+
 <div align="center">
 <br><p align="center"><font color="#6e2dac">Visitors Count</font></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroAugusto10500}/count.svg" /></p> 
