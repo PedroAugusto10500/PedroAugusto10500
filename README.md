@@ -6,10 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=747474&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Augusto;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=4B08BF&icon_color=4B08BF&text_color=04DE18&bg_color=0d1117" alt="Pedro Augusto github stats"
-       /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=818080&icon_color=000000&text_color=818080&bg_color=0d1117" alt="Pedro Augusto github stats"/> 
   
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&hide_border=true&title_color=4B08BF&text_color=00FF00&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&hide_border=true&title_color=818080&text_color=818080&bg_color=0d1117" />
 </div>
 
 
@@ -17,7 +16,7 @@
 
 
 
- ### 🟣 Main skills:
+ ### ⚫ Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,18 +24,16 @@
   <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
- ### 🟣 Studying in this moment:
+ ### ⚫ Studying in this moment:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 <div align="center">
-<img align="right" alt="Spike-pic" height="350" style="border-radius:50%;" src="http://i.imgur.com/Esvthp8.gif">  
+<img align="right" alt="Spike-pic" height="350" style="border-radius:50%;" src="https://giffiles.alphacoders.com/196/196087.gif">  
 </div> 
 
-<div align="center">
-<img align="left" alt="Spike-pic" height="350" style="border-radius:50%;" src="https://i.pinimg.com/originals/bd/70/91/bd709126f1b9c8b3c772d5169b41414d.gif">  
 </div> 
 <br>
 <br>
@@ -53,4 +50,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroAugusto10500}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B08BF,100:0d1117&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:000000&height=120&section=footer"/>
