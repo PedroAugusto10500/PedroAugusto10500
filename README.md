@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<img align="right" alt="Spike-pic" height="350" style="border-radius:50%;" src="https://media.tenor.com/mrkY2_x0oGkAAAAi/cowboy-bebop-cigarette.gif">  
+<img align="right" alt="Spike-pic" height="250" style="border-radius:50%;" src="https://media.tenor.com/mrkY2_x0oGkAAAAi/cowboy-bebop-cigarette.gif">  
 </div> 
 
 </div> 
