@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
 
 
 
@@ -7,9 +7,14 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=818080&icon_color=000000&text_color=818080&bg_color=0d1117" alt="Pedro Augusto github stats"/> 
-  
+   
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&hide_border=true&title_color=818080&text_color=818080&bg_color=0d1117" />
 </div>
+
+   
+
+
+
 
 
  ### ⚫ Main skills:
@@ -44,7 +49,7 @@
 
 <div align="center">
 <br><p align="center"><font color="#6e2dac">Visitors Count</font></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroAugusto10500}/count.svg" /></p> 
+<p align="center"><img align="center"  src="https://profile-counter.glitch.me/{PedroAugusto10500}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=footer"/>
