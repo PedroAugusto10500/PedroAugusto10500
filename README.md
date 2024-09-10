@@ -21,10 +21,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Aplicações e dados**
+
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Php&logoColor=007396)
