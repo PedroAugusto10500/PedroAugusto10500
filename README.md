@@ -1,57 +1,53 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
 
+![](https://komarev.com/ghpvc/?username=PedroAugusto10500&color=006bed)
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando ADS: 5/5 na faculdade Senai-Fatesg.
+- 💼 Trabalhando como desenvolvedor na Paz Universal.
+- 🌱 Aprendendo mais sobre: Angular, Spring Boot e React.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-React-333333?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/-React-333333?style=flat&logo=ionic)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/PedroAugusto10500" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=747474&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Augusto;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&count_private=true&hide_border=true&title_color=818080&icon_color=000000&text_color=818080&bg_color=0d1117" alt="Pedro Augusto github stats"/> 
-   
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&hide_border=true&title_color=818080&text_color=818080&bg_color=0d1117" />
-</div>
-
-
-   
-
-
-
-
-
- ### ⚫ Main skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
- ### ⚫ Studying in this moment:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-<div align="center">
-<img align="right" alt="Spike-pic" height="200" style="border-radius:50%;" src="https://media.tenor.com/mrkY2_x0oGkAAAAi/cowboy-bebop-cigarette.gif">  
-</div> 
-
-</div> 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-<br><p align="center"><font color="#6e2dac">Visitors Count</font></p>
-<p align="center"><img align="center"  src="https://profile-counter.glitch.me/{PedroAugusto10500}/count.svg" /></p> 
-<br>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=footer"/>
