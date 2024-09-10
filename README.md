@@ -61,6 +61,7 @@
 [![GitHub](https://img.shields.io/github/followers/PedroAugusto10500?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
 
+<br>
 <div align="center">
   
   [![Andromeda - Gorillaz](https://img.shields.io/badge/Spotify-Andromeda-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d)
