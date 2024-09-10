@@ -23,23 +23,23 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Aplicações e dados**
+**° Aplicações e dados**
 
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Php&logoColor=007396)
 
-**Utilidades**
+**° Utilidades**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**DevOps**
+**° DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**° Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
