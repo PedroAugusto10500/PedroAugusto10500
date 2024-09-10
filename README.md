@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse">
   <tr>
     <td style="border: none; padding: 0; vertical-align: middle;">
       ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=500&lines=Seja+Bem-vindo!)
