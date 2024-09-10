@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
 
-## Sobre mim
+## Sobre mim 👻
 
 - ⚫ Explorando novas tecnologias e desenvolvendo soluções de software.
 - ⚫ Estudando ADS: 5/5 na faculdade Senai-Fatesg.
