@@ -1,6 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e0e0e&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color0e0e0e&size=35&center=true&vCenter=true&width=1000&lines=Opa!+Tranquilo?+Me+chamo+Fhilipe;Tenho+20+anos;Brasileiro+;Estudando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!)](https://git.io/typing-svg)
 ## Sobre mim 👻
 
 - ⚫ Explorando novas tecnologias e desenvolvendo soluções de software.
