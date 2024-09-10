@@ -13,7 +13,7 @@
   
  ##  ➯ Minhas Skills:
 
-**Aplicações e dados**
+**° Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -23,7 +23,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**° Aplicações e dados**
+**° Aprendendo Atualmente**
 
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
@@ -61,12 +61,11 @@
 [![GitHub](https://img.shields.io/github/followers/PedroAugusto10500?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
 <div align="center">
-  
   [![Andromeda - Gorillaz](https://img.shields.io/badge/Spotify-Andromeda-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d)
 
-  [![Ouça Andromeda no Spotify](https://i.scdn.co/image/ab67616d0000b27355f024d1ef91b2e4779a3777)](https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d)
-
+  <a href="https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b27355f024d1ef91b2e4779a3777" alt="Andromeda - Gorillaz" width="300" height="300" style="border-radius:12 rem;">
+  </a>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=footer"/>
