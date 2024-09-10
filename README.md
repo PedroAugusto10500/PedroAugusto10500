@@ -60,12 +60,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-pedroaugustogondim10500@gmail.com.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PedroAugusto10500?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
+
 <div align="center">
   [![Andromeda - Gorillaz](https://img.shields.io/badge/Spotify-Andromeda-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d)
-
-  <a href="https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d" target="_blank">
-    <img src="https://open.spotify.com/intl-pt/album/5ZmmS4AcXQ4eBYt8aWqlk3" alt="Andromeda - Gorillaz" width="300" height="300">
-  </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=footer"/>
