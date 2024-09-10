@@ -4,17 +4,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 ## Sobre mim 👻
-
+- ⚫ Me chamo Pedro Augusto e tenho 20 anos.
 - ⚫ Explorando novas tecnologias e desenvolvendo soluções de software.
 - ⚫ Estudando ADS: 5/5 na faculdade Senai-Fatesg.
-- ⚫ Trabalhando como desenvolvedor na Paz Universal.
-- ⚫ Aprendendo mais sobre: Angular, Spring Boot e React.
+- ⚫ Trabalhando como desenvolvedor (Junior) na Paz Universal.
+- ⚫ Aprendendo mais sobre: Angular, Spring Boot, React e PHP.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
