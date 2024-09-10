@@ -45,9 +45,9 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif" height="180em"/>
-  <div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif" height="180em" style="flex-shrink: 0;"/>
+  <div style="display: flex; flex-direction: column;">
     <a href="https://github.com/PedroAugusto10500" title="Perfil do Pedro">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dark&show_icons=true&hide_border=true"/>
     </a>
