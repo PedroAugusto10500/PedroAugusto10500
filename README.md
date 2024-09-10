@@ -1,8 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
 
-![](https://komarev.com/ghpvc/?username=PedroAugusto10500&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -41,13 +39,13 @@
 
 <br/>
 
-<a href="https://github.com/PedroAugusto10500" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dracula&show_icons=true" />
+<a href="https://github.com/PedroAugusto10500" title="Perfil do Pedro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dark&show_icons=true" />
 </a>
 
 ## Onde me encontrar
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/PedroAugusto10500)
+[![Gmail Badge](https://img.shields.io/badge/-pedroaugustogondim10500@gmail.com.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/PedroAugusto10500?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=footer"/>
