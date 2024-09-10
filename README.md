@@ -11,7 +11,7 @@
 - ⚫ Residente em Goiânia, Brasil 🇧🇷, sempre buscando novas oportunidades de aprendizado e desenvolvimento.
 - ⚫ Conhecimento intermediário em Inglês 🇺🇸.
 
- ##  ➯ Minhas Skills:
+ ##  ➯ Minhas Skills 👨🏻‍💻:
 
 **° Aplicações e dados**
 
