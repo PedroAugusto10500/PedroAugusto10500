@@ -5,23 +5,24 @@
 
 ## Sobre mim 👻
 - ⚫ Me chamo Pedro Augusto e tenho 20 anos.
-- ⚫ Explorando novas tecnologias e desenvolvendo soluções de software.
-- ⚫ Estudando ADS: 5/5 na faculdade Senai-Fatesg.
-- ⚫ Trabalhando como desenvolvedor (Junior) na Paz Universal.
-- ⚫ Aprendendo mais sobre: Angular, Spring Boot, React e PHP.
-
+- ⚫ Estudante de Análise e Desenvolvimento de Sistemas, último período na Senai-Fatesg.
+- ⚫ Trabalhando como desenvolvedor(Junior) na Paz Universal.
+- ⚫ Foco em tecnologias como Angular, Spring Boot e Ionic.
+- ⚫ Residente em Goiânia, Brasil 🇧🇷, sempre buscando novas oportunidades de aprendizado e desenvolvimento.
+- ⚫ Conhecimento intermediário em Inglês 🇺🇸.
+  
 ## Minhas Skills
 
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)(Aprendendo)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)(Aprendendo)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)(Aprendendo)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
