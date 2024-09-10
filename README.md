@@ -1,9 +1,18 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=500&lines=Seja+Bem-vindo!)
+    </td>
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      <img src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif" alt="GIF Animado" width="500" />
+    </td>
+  </tr>
+</table>
 
-##  ➯ Sobre mim 👻
+##  ➯ Sobre mim 🚀
 - ⚫ Me chamo Pedro Augusto e tenho 20 anos.
 - ⚫ Estudante de Análise e Desenvolvimento de Sistemas, último período na Senai-Fatesg.
 - ⚫ Trabalhando como desenvolvedor(Junior) na Paz Universal.
@@ -66,7 +75,7 @@
 
 <br>  
 
-  [![Andromeda - Gorillaz](https://img.shields.io/badge/Spotify-Andromeda-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d)
+  [![Andromeda - Gorillaz](https://img.shields.io/badge/Spotify-Andromeda-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/album/5ZmmS4AcXQ4eBYt8aWqlk3)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=footer"/>
