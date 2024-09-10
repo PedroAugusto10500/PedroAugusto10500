@@ -64,7 +64,7 @@
   
   [![Andromeda - Gorillaz](https://img.shields.io/badge/Spotify-Andromeda-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d)
 
-  <iframe src="https://open.spotify.com/embed/track/5PPfqdknKk5K53Ih7cVsO7?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  [![Ouça Andromeda no Spotify](https://i.scdn.co/image/ab67616d0000b27355f024d1ef91b2e4779a3777)](https://open.spotify.com/track/5PPfqdknKk5K53Ih7cVsO7?si=0d1b0b4ea7a7480d)
 
 </div>
 
