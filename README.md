@@ -3,10 +3,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando ADS: 5/5 na faculdade Senai-Fatesg.
-- 💼 Trabalhando como desenvolvedor na Paz Universal.
-- 🌱 Aprendendo mais sobre: Angular, Spring Boot e React.
+- ⚫ Explorando novas tecnologias e desenvolvendo soluções de software.
+- ⚫ Estudando ADS: 5/5 na faculdade Senai-Fatesg.
+- ⚫ Trabalhando como desenvolvedor na Paz Universal.
+- ⚫ Aprendendo mais sobre: Angular, Spring Boot e React.
 
 ## Minhas Skills
 
@@ -17,8 +17,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-React-333333?style=flat&logo=angular)
-![Ionic](https://img.shields.io/badge/-React-333333?style=flat&logo=ionic)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
