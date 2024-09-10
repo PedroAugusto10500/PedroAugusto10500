@@ -45,8 +45,6 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<br/>
-
 <a href="https://github.com/PedroAugusto10500" title="Perfil do Pedro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dark&show_icons=true" />
 </a>
