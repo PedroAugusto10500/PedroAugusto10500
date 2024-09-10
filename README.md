@@ -1,16 +1,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:747474,100:0d1117&height=120&section=header"/>
 
-<table>
-  <tr>
-    <td>
-       ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=500&lines=Seja+Bem-vindo!)
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif" alt="GIF Animado" width="500" />
-    </td>
-  </tr>
-</table>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=500&lines=Seja+Bem-vindo!)
+
+
 
 
 ##  ➯ Sobre mim 🚀
