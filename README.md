@@ -45,9 +45,19 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<a href="https://github.com/PedroAugusto10500" title="Perfil do Pedro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dark&show_icons=true" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PedroAugusto10500" title="Perfil do Pedro">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dark&show_icons=true" />
+      </a>
+    </td>
+    <td>
+      <img height="180em" src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif"/>
+    </td>
+  </tr>
+</table>
+
 
 ##  ➯ Onde me encontrar:
 [![Gmail Badge](https://img.shields.io/badge/-pedroaugustogondim10500@gmail.com.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
