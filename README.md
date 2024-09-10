@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
 
- ➯ ## Sobre mim 👻
+##  ➯ Sobre mim 👻
 - ⚫ Me chamo Pedro Augusto e tenho 20 anos.
 - ⚫ Estudante de Análise e Desenvolvimento de Sistemas, último período na Senai-Fatesg.
 - ⚫ Trabalhando como desenvolvedor(Junior) na Paz Universal.
@@ -11,7 +11,7 @@
 - ⚫ Residente em Goiânia, Brasil 🇧🇷, sempre buscando novas oportunidades de aprendizado e desenvolvimento.
 - ⚫ Conhecimento intermediário em Inglês 🇺🇸.
   
- ➯ ## Minhas Skills
+ ##  ➯ Minhas Skills:
 
 **Aplicações e dados**
 
@@ -51,7 +51,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&theme=dark&show_icons=true" />
 </a>
 
- ➯ ## Onde me encontrar
+##  ➯ Onde me encontrar:
 [![Gmail Badge](https://img.shields.io/badge/-pedroaugustogondim10500@gmail.com.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PedroAugusto10500?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
