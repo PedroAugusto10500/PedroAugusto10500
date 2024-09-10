@@ -16,14 +16,18 @@
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396) (Aprendendo)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) (Aprendendo)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic) (Aprendendo)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Aplicações e dados**
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Php&logoColor=007396)
 
 **Utilidades**
 
