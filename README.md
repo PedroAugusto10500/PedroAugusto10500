@@ -54,7 +54,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&theme=dark&layout=compact&hide_border=true"/>
     </a>
     <a href="https://github.com/PedroAugusto10500" title="Perfil do Pedro">
-       <img src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif" height="100em" style="flex-shrink: 0;"/>
+       <img src="https://i.pinimg.com/originals/29/1d/27/291d272f1dc797d0f8859eae0675c05a.gif" height="150em" style="flex-shrink: 0;"/>
     </a>
   </div>
 </div>
