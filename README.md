@@ -43,7 +43,7 @@
 
 **° Ferramentas de desenvolvimento:**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=vscode&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=dev.to&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=FF9800)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
