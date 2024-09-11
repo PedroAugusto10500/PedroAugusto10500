@@ -42,11 +42,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **° Ferramentas de desenvolvimento:**
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij&logoColor=2C2255)
-![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime&logoColor=2C2255)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=FF9800)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="display: flex; flex-direction: column;">
