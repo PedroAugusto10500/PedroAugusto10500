@@ -16,7 +16,7 @@
 **° Aplicações e dados:**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=F80000)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=68fa4e)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
