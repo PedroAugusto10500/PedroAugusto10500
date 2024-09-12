@@ -62,7 +62,7 @@
   </div>
 </div>
 
-##  ➯ Onde me encontrar 🌐
+##  ➯ Onde me encontrar 
 [![Gmail Badge](https://img.shields.io/badge/-pedroaugustogondim10500@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PedroAugusto10500?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
