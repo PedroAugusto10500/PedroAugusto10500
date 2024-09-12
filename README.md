@@ -29,7 +29,7 @@
 **° Aprendendo Atualmente:**
 
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
-![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=93a8fc)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
 
 **° Utilidades:**
