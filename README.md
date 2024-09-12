@@ -36,7 +36,7 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Bruno](https://img.shields.io/badge/-Bruno-333333?style=flat&logo=bruno)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=6c19de)
 
 **° DevOps:**
 
