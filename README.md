@@ -35,6 +35,7 @@
 **° Utilidades:**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Bruno](https://img.shields.io/badge/-Bruno-333333?style=flat&logo=bruno)
 
 **° DevOps:**
 
