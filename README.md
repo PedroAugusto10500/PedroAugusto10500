@@ -6,7 +6,6 @@
 ## ➯ Sobre mim 🌱
 - ⚫ Me chamo Pedro Augusto e tenho 20 anos.
 - ⚫ Estudante de Análise e Desenvolvimento de Sistemas, último período na Senai-Fatesg.
-- ⚫ Trabalhando como desenvolvedor (Junior 👨🏻‍💻) na Paz Universal.
 - ⚫ Foco em tecnologias como Angular, Spring Boot e Ionic.
 - ⚫ Residente em Goiânia, Brasil 🇧🇷, sempre buscando novas oportunidades de aprendizado e desenvolvimento.
 - ⚫ Conhecimento intermediário em Inglês 🇺🇸.
