@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6aeb9f&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 ## ➯ Sobre mim 🌱
-- ⚫ Me chamo Pedro Augusto e tenho 20 anos.
-- ⚫ Estudante de Análise e Desenvolvimento de Sistemas, último período na Senai-Fatesg.
-- ⚫ Foco em tecnologias como Angular, Spring Boot e Ionic.
-- ⚫ Conhecimento intermediário em Inglês 🇺🇸.
+-  Me chamo Pedro Augusto e tenho 20 anos.
+-  Estudante de Análise e Desenvolvimento de Sistemas, último período na Senai-Fatesg.
+-  Foco em tecnologias como Angular, Spring Boot e Ionic.
+-  Conhecimento intermediário em Inglês 🇺🇸.
 
  ##  ➯ Minhas Skills 
 
