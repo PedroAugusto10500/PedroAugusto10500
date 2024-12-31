@@ -5,7 +5,7 @@
 
 ## ➯ Sobre mim 🌱
 -  Me chamo Pedro Augusto e tenho 20 anos.
--  Estudante de Análise e Desenvolvimento de Sistemas, último período na Senai-Fatesg.
+-  Formado em Análise e Desenvolvimento de Sistemas, na Faculdade Senai-Fatesg.
 -  Foco em tecnologias como Angular, Spring Boot e Ionic.
 -  Conhecimento intermediário em Inglês 🇺🇸.
 
