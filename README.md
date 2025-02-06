@@ -5,7 +5,7 @@
 
 ## ➯ Sobre mim 🌱
 -  Formado em Análise e Desenvolvimento de Sistemas, na Faculdade Senai-Fatesg.
--  Foco em tecnologias como Angular, Spring Boot e Ionic.
+-  Foco em tecnologias como Angular, React, Java, e Ionic.
 
  ##  ➯ Minhas Skills 
 
