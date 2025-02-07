@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6aeb9f&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!)](https://git.io/typing-svg)
 
-## ➯ Sobre mim 🌱
--  Formado em Análise e Desenvolvimento de Sistemas, na Faculdade Senai-Fatesg.
--  Foco em tecnologias como Angular, React, Java, e Ionic.
+## ➯ About Me 🌱
+- Graduated in Systems Analysis and Development from Senai-Fatesg College.
+- Focused on technologies such as Angular, React, Java, and Ionic.
 
- ##  ➯ Minhas Skills 
+ ##  ➯ My Skills
 
-**° Aplicações e dados:**
+**° Applications and Data:**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=F80000)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=68fa4e)
@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
-**° Utilidades:**
+**° Utilities:**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=6c19de)
@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**° Ferramentas de desenvolvimento:**
+**° Development Tools:**
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=dev.to&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
@@ -50,7 +50,7 @@
   </div>
 </div>
 
-##  ➯ Onde me encontrar 
+##  ➯ Where to Find Me
 [![Gmail Badge](https://img.shields.io/badge/-pedroaugustogondim10500@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugustogondim10500@gmail.com)](mailto:pedroaugustogondim10500@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PedroAugusto10500?label=follow&style=social)](https://github.com/PedroAugusto10500)
 
