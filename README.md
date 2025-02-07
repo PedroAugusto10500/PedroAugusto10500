@@ -14,24 +14,17 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=F80000)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=68fa4e)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=f784f2)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=93a8fc)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**° Aprendendo Atualmente:**
-
-![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
-![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=93a8fc)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
 
 **° Utilidades:**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Bruno](https://img.shields.io/badge/-Bruno-333333?style=flat&logo=bruno)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=6c19de)
 
 **° DevOps:**
@@ -44,8 +37,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=dev.to&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=FF9800)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
