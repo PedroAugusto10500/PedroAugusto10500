@@ -42,11 +42,10 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/PedroAugusto10500">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&theme=dark&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&theme=dark&hide_border=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ---
