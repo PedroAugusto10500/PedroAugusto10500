@@ -42,11 +42,17 @@
 ---
 
 ## 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&theme=dark&hide_border=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&theme=dark&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&theme=dark&hide_border=true"/>
-</div>
 
 ---
 
