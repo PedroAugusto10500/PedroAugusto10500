@@ -8,14 +8,9 @@
   </a>
 </p>
 
-<!-- MacBook Mockup -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/note-book.gif" alt="Macbook" width="90%">
-</p>
-
 <p align="center">
   👋 I'm <strong>Pedro Augusto</strong>, a <strong>20-year-old</strong> developer passionate about technology.<br>
-  💻 Focused on developing scalable and efficient solutions with <strong>Angular</strong>, <strong>React</strong> and <strong>Spring Boot</strong>.<br>
+  💻 Focused on developing scalable and efficient solutions with <strong>Angular</strong>, <strong>React</strong>, and <strong>Spring Boot</strong>.<br>
   🚀 Always ready to learn and work with any technology needed to solve problems.<br>
   🎯 Clean code, performance, and good architecture are my priorities.
 </p>
@@ -29,12 +24,17 @@
   <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=oracle&logoColor=F80000"/>
   <img src="https://img.shields.io/badge/Spring_Boot-333333?style=for-the-badge&logo=spring&logoColor=68fa4e"/>
   <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=6cc24a"/>
   <img src="https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular"/>
   <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Ionic-333333?style=for-the-badge&logo=ionic"/>
   <img src="https://img.shields.io/badge/Flutter-333333?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
 </p>
+
+---
 
 ### 🔧 Tools & Platforms
 <p align="center">
@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github"/>
 </p>
+
+---
 
 ### 🖥️ IDEs
 <p align="center">
