@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<!-- MacBook Mockup -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/note-book.gif" alt="Macbook" width="90%">
+</p>
+
 <p align="center">
   👋 I'm <strong>Pedro Augusto</strong>, a <strong>20-year-old</strong> developer passionate about technology.<br>
   💻 Focused on developing scalable and efficient solutions with <strong>Angular</strong>, <strong>React</strong> and <strong>Spring Boot</strong>.<br>
@@ -30,7 +35,6 @@
   <img src="https://img.shields.io/badge/Flutter-333333?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql"/>
 </p>
-
 
 ### 🔧 Tools & Platforms
 <p align="center">
