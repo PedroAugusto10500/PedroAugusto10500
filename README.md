@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ About
+## About
 <p align="center">
   Passionate about technology and design.<br>
   Focused on creating scalable, efficient and intuitive solutions.<br>
@@ -21,7 +21,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=68fa4e"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 <p align="center">
   <a href="mailto:pedroaugustogondim10500@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
