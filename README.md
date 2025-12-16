@@ -53,7 +53,7 @@
 <div align="center" style="background: rgba(255,255,255,0.06); border-radius: 20px; backdrop-filter: blur(8px); padding: 25px; width: 85%; margin: 40px auto; box-shadow: 0 0 18px rgba(255,255,255,0.07);">
   <h2 style="color:#e1e4e8; margin-bottom: 15px;">GitHub Insights</h2>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto10500&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=68fa4e" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto10500&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" alt="Top Languages"/>
+
 </div>
 
 ---
