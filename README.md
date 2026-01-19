@@ -5,11 +5,7 @@
   Full Stack Developer · Angular · React · Spring Boot · Node.js
 </h3>
 
-<p align="center" style="margin-top: 25px;">
-  <img src="https://i.pinimg.com/originals/98/e0/3c/98e03c50916371a1af9d34cd1ecfc3dc.gif" 
-       alt="Animated coding gif"
-       style="max-width: 100%; width: 250px; border-radius: 16px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.03); box-shadow: 0 0 15px rgba(255,255,255,0.05), inset 0 0 6px rgba(255,255,255,0.03);"/>
-</p>
+
 
 ---
 
